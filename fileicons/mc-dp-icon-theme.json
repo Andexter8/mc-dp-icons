@@ -405,6 +405,9 @@
     "dot_vscode": {
       "iconPath": "./imgs/dot_vscode.svg"
     },
+    "ejs": {
+      "iconPath": "./imgs/ejs.svg"
+    },
     "excel": {
       "iconPath": "./imgs/excel.svg"
     },
@@ -431,6 +434,9 @@
     },
     "js": {
       "iconPath": "./imgs/js.svg"
+    },
+    "js_test": {
+      "iconPath": "./imgs/js_test.svg"
     },
     "kotlin": {
       "iconPath": "./imgs/kotlin.svg"
@@ -500,6 +506,9 @@
     },
     "ts": {
       "iconPath": "./imgs/ts.svg"
+    },
+    "ts_test": {
+      "iconPath": "./imgs/ts_test.svg"
     },
     "vsc": {
       "iconPath": "./imgs/vsc.svg"
@@ -691,6 +700,12 @@
     "gzip": "archive",
     "lz4": "archive",
     "lzma": "archive",
+    "mcouicplugin": "archive",
+    "ouicplugin": "archive",
+    "mcouictheme": "archive",
+    "ouictheme": "archive",
+    "mcouicaddon": "archive",
+    "ouicaddon": "archive",
     "pak": "archive",
     "rar": "archive",
     "rpm": "archive",
@@ -749,6 +764,7 @@
     "frm": "database",
     "fdb": "database",
     "gdb": "database",
+    "ldb": "database",
     "mdb": "database",
     "mongodb": "database",
     "myd": "database",
@@ -775,6 +791,7 @@
     "pages": "doc",
     "wpd": "doc",
     "wps": "doc",
+    "ejs": "ejs",
     "csv": "excel",
     "ods": "excel",
     "psv": "excel",
@@ -910,6 +927,7 @@
     "jsx": "js",
     "mjs": "js",
     "pac": "js",
+    "test.js": "js_test",
     "har": "json",
     "jsonld": "json",
     "topojson": "json",
@@ -918,6 +936,8 @@
     "jsonc": "json",
     "jsonl": "json",
     "ndjson": "json",
+    "mcouicconfig": "json",
+    "ouicconfig": "json",
     "kt": "kotlin",
     "kts": "kotlin",
     "dmp": "log",
@@ -1083,6 +1103,7 @@
     "ts": "ts",
     "tsbuildinfo": "ts",
     "tsx": "ts",
+    "test.ts": "ts_test",
     "code-profile": "vsc",
     "code-snippets": "vsc",
     "code-workplace": "vsc",
